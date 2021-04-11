@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Xydez <thexydez@gmail.com>"]
 edition = "2018"
 license = "Unlicense"
+keywords = ["java", "random"]
+categories = ["algorithms"]
 
 [dependencies]
 serde = { version = "1.0", optional = true, features = ["derive"] }
