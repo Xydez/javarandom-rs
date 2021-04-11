@@ -2,6 +2,7 @@
 name = "javarandom"
 version = "0.1.0"
 description = "Pure rust implementation of java.util.Random"
+repository = "https://github.com/Xydez/javarandom-rs"
 authors = ["Xydez <thexydez@gmail.com>"]
 edition = "2018"
 license = "Unlicense"
